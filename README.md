@@ -39,5 +39,3 @@ https://jsonplaceholder.typicode.com/
 - Confirms successful response status
 
 ---
-
-## Project Structure
