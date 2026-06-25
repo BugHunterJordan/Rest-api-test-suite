@@ -1,3 +1,5 @@
+![Project Thumbnail](RestAPIThumbnail.png)
+
 # REST API Automation Test Suite (Python + Pytest)
 
 ## Overview
