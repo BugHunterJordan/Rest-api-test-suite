@@ -39,3 +39,16 @@ https://jsonplaceholder.typicode.com/
 - Confirms successful response status
 
 ---
+How to Run Tests
+pytest -v
+
+Key QA Concepts Practiced
+REST API testing
+CRUD operations validation
+Status code assertions
+JSON response validation
+Pytest test structure
+Fixtures (conftest.py)
+
+Purpose
+This project was built to practice real-world QA automation skills and demonstrate API testing capability for junior QA roles.
