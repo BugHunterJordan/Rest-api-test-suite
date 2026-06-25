@@ -41,7 +41,7 @@ https://jsonplaceholder.typicode.com/
 ### How to Run Tests
 pytest -v
 
-###Key QA Concepts Practiced
+### Key QA Concepts Practiced
  - REST API testing
  - CRUD operations validation
  - Status code assertions
